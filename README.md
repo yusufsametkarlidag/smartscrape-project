@@ -4,6 +4,14 @@
 
 Tekirdağ Namık Kemal Üniversitesi - Bilgisayar Mühendisliği
 
+> ### Ekip ve katkım
+> Üç kişilik bitirme projesi ekibiyle geliştirildi: **Emir**, **İlayda** ve **Yusuf Samet Karlıdağ**.
+> Bu depo benim çatallamam (fork). Projedeki katkım: **üç aşamalı doğrulama döngüsü**,
+> **kara liste filtresi** ve **kullanıcı arayüzü**.
+> Ekip arkadaşımın hesabındaki ana depo: [ilaydayrdmc/smartscrape-project](https://github.com/ilaydayrdmc/smartscrape-project)
+
+---
+
 ---
 
 ## 📋 Proje Özeti
